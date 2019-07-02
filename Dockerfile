@@ -7,7 +7,7 @@
 #
 # *************************************
 
-FROM alpine:3.7
+FROM alpine:3.10
 
 MAINTAINER Easlee Liu "liu@easlee.me"
 
