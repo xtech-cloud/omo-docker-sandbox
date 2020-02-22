@@ -3,13 +3,13 @@
 # OMO Sandbox
 #
 # ENV: PROD
-# VERSION: 1.0.0
+# VERSION: 3.11
 #
 # *************************************
 
-FROM alpine:3.10
+FROM alpine:3.11
 
-MAINTAINER Easlee Liu "liu@easlee.me"
+MAINTAINER Easlee Liu "easlee@outlook.com"
 
 ENV container docker
 
